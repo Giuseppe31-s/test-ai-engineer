@@ -12,6 +12,7 @@ build/
 develop-eggs/
 dist/
 downloads/
+qdrant_storage/
 eggs/
 .eggs/
 lib/
